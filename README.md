@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Use
 
 These are some components that are intended to be used to develop a web app based on a prototype that I have been developing together with a classmate. 
+The components can be found in the app folder, (src/app). 
+The HTML and CSS that belongs to each and every component is located in their respective typescript files. 
