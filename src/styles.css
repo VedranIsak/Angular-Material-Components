@@ -1,1 +1,91 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 2vmin;
+    font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+
+/* All of the colors used in the prototype, with the corresponding names*/
+
+.primaryDark {
+    background: #004894;
+}
+
+.primaryDefault {
+    background: #0066B3;
+}
+
+.primary700 {
+    background: #0A76C5;
+}
+
+.primary600 {
+    background: #1688D7;
+}
+
+.primaryLight {
+    background: #1F95E4;
+}
+
+.primary400 {
+    background: #43A4E7;
+}
+
+.primary300 {
+    background: #64B4EA;
+}
+
+.primaryLighter {
+    background: #8FC9F1;
+}
+
+.primary100 {
+    background: #BADEF6;
+}
+
+.primaryLightest {
+    background: #E3F2FB;
+}
+
+.white {
+    background: #FFFFFF;
+}
+
+.warning {
+    background: #EB5757;
+}
+
+.aware {
+    background: #FED765;
+}
+
+.done {
+    background: #219653;
+}
+
+.A {
+    background: #82A10D;
+}
+
+.B {
+    background: #B2B602;
+}
+
+.C {
+    background: #D3AB00;
+}
+
+.D {
+    background: #F5911B;
+}
+
+.E {
+    background: #D83000;
+}
